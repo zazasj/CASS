@@ -16,3 +16,6 @@ Class Assistant using Smart System
 ## 클라이언트 화면
 ![image](https://github.com/zazasj/CASS/assets/105793155/b7909461-f723-4e93-8449-efefef110027)
 
+
+# 관련 논문
+https://drive.google.com/file/d/1350nACNNRlsnhbVEIf9OiaeVw9qsitss/view?usp=sharing
