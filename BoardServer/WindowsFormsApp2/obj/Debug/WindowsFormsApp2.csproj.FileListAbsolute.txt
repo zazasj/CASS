@@ -1,0 +1,261 @@
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.dll
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.pdb
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.xml
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RemoteClientForm.resources
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.VirtualCursorForm.resources
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\9\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.pdb
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.xml
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2._505.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RemoteClientForm.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Start.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Info.resources
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.dll
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.pdb
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.xml
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2._505.resources
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Info.resources
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.MainForm.resources
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RemoteClientForm.resources
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Start.resources
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.VirtualCursorForm.resources
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\UHS\Downloads\Server_1\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.PowerBI.Api.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Note.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.display.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\서버.exe.config
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\서버.exe
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\서버.pdb
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\서버.exe
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\서버.pdb
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IpChange.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ServerDisShare.resources
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\9\source\repos\Server_1\WindowsFormsApp2\obj\Debug\서버.exe.config
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\서버.exe.config
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2._505.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.display.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Info.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IpChange.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Note.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RemoteClientForm.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.ServerDisShare.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Start.resources
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\서버.exe
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\서버.pdb
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\서버.exe.config
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\서버.exe
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\서버.pdb
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.PowerBI.Api.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.pdb
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.xml
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\UHS\Downloads\Server_1 (1)\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\서버.exe.config
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\서버.exe
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\서버.pdb
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.PowerBI.Api.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.pdb
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.xml
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\서버.exe.config
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.display.resources
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Info.resources
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IpChange.resources
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\서버.exe
+C:\Users\HyupsungPC\Downloads\boardServer\Server_1\WindowsFormsApp2\obj\Debug\서버.pdb
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\서버.exe.config
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\서버.exe
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\서버.pdb
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.PowerBI.Api.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.pdb
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.xml
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\서버.exe.config
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.display.resources
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Info.resources
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IpChange.resources
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\서버.exe
+C:\Users\HyupsungPC\Downloads\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\서버.pdb
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\서버.exe.config
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\서버.exe
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\서버.pdb
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Design.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.PowerBI.Api.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Fonts.Fluent.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.dll
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.pdb
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\RecvRCInfoEventLib.xml
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Buffers.xml
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Collections.Immutable.xml
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Memory.xml
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Diagnostics.Eventing.pdb
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\bin\Debug\Uno.Foundation.Logging.pdb
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\서버.exe.config
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.ResolveComReference.cache
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.display.resources
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Info.resources
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.IpChange.resources
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\서버.exe
+C:\Users\HyupsungPC\Downloads\boardServer4-5 (1)\boardServer\boardServer\Server_1\WindowsFormsApp2\obj\Debug\서버.pdb
